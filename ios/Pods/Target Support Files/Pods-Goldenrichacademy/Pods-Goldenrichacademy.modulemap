@@ -1,0 +1,6 @@
+module Pods_Goldenrichacademy {
+  umbrella header "Pods-Goldenrichacademy-umbrella.h"
+
+  export *
+  module * { export * }
+}
